@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="8$4PE8UQU4BcQO(~y(a0" x="0" y="0"/><block type="device_forever" id="gEqM+*gik^B2KfX^aWy%" x="205" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="L}V.x6s;J5Mt^%/]63^g"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_gesture_event" id="~Lhuh,NIoubOKwBLkyS1" x="-254" y="125"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_print_message" id="du`XK7vHyCxi0}XRMUEj"><value name="text"><shadow type="text" id="+6`nQ_L*@8djk30q{)|m"><field name="TEXT">I WORK!</field></shadow></value></block></statement></block><block type="device_button_event" id="^kzbOQ;@pTbchldYbM9!" x="-5" y="128"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id=")wcB;x`~5TR_F.+0aH8,"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        # . # . # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="VI[u?ZolV65OsH|8@*N2"><field name="LEDS">`
+        . . . # . 
+        . . . # . 
+        . # . # . 
+        . # . # . 
+        . . # . .
+        `</field></block></next></block></statement></block><block type="device_button_event" id="3qibn?N[%BXKn5(j`He(" x="297" y="221"><field name="NAME">Button.B</field></block></xml>
